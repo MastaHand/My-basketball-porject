@@ -1,0 +1,17 @@
+<!doctype>
+<html>
+     <head><title> Homepage </title></head>
+	 
+	 
+	 <body>
+	<p> <h1> Helpful Websites: </h1>
+	 <ul>
+	 <li><a href="layups.html">Lay-Ups</a></li>
+	 <li><a href="dribbling.html">Dribbling</a></li>
+	 <li><a href="shooting.html">Shooting</a></li>
+	 <li>< a href="pumpfakes.html">Pump Fakes</a></li>
+	 <li><a href="stealing.html">Stealing</a></li>
+	 </ul></p>
+	 
+	 </body>
+	 </html>
